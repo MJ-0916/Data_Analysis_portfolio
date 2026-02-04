@@ -21,11 +21,13 @@ I performed comprehensive data cleaning and QA to ensure reliable analysis.
 
 ## 4. Exploratory Data Analysis (EDA)
 
-### Insight 1 — Rating vs BestOverall
+### Insight 1 — Rating vs BestOverall (project1_football_player_analysis/figures/figure1.png)
+
 Rating shows a strong positive relationship with BestOverall, indicating that
 higher overall skill metrics align closely with player ratings.
 
-### Insight 2 — Rating, MarketValue, and Age
+### Insight 2 — Rating, MarketValue, and Age (project1_football_player_analysis/figures/figure2.png)
+
 Market value increases sharply for players with ratings above ~80.
 High-rated players tend to cluster around peak performance ages
 (mid-20s to early-30s).
