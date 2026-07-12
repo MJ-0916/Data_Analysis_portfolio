@@ -36,3 +36,7 @@ High-rated players tend to cluster around peak performance ages
 - Rating is strongly driven by overall performance metrics
 - High ratings correlate with higher market value and peak-age players
 - Thorough data cleaning is critical for meaningful player evaluation
+
+## 6. Insights
+- Player performance has a stronger influence on market valuation than age alone, indicating that clubs may prioritize demonstrated performance over potential when assigning higher transfer values.
+- Clubs seeking immediate performance may obtain the highest return by targeting players within 25-30 age range, as they combine experience with peak physical performance.
